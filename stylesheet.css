@@ -24,3 +24,6 @@ ul {
 	filter: alpha(opacity=40);
 }
 
+tr {
+	height: 100px;	
+}
