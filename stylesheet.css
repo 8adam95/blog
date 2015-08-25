@@ -1,0 +1,18 @@
+body {
+	background: url("backgr.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	color: white;
+}
+
+li {
+	display: inline;
+}
+
+ul {
+	text-align: right;
+	padding: 5px 10px 10px 10px;
+}
+
