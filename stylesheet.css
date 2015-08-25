@@ -19,5 +19,8 @@ ul {
 .tabelka {
 	width: 50%;
 	margin: auto;
+	background-color: green;
+	opacity: 0.3;
+	filter: alpha(opacity=40);
 }
 
