@@ -19,11 +19,21 @@ ul {
 .tabelka {
 	width: 50%;
 	margin: auto;
+	text-align: center;
 	background-color: green;
 	opacity: 0.3;
 	filter: alpha(opacity=40);
 }
 
 tr {
+	text-align: center;
 	height: 100px;	
+}
+td {
+	text-align: center;
+}
+
+.stopka {
+	text-align: center;
+	color: white;
 }
